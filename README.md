@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 <p align="center">
   <a href="https://github.com/JundiLesmana">
@@ -7,11 +7,10 @@
 </p>
 
 # Top Used Language
-
 <br/>
 
 <p align="center">
   <a href="https://github.com/JundiLesmana">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JundiLesmana&layout=pie&langs_count=4&theme=synthwave">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JundiLesmana&langs_count=8&layout=compact&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)">
   </a>
 </p>
