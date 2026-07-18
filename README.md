@@ -13,7 +13,7 @@
 - 🌱 Learning **Embedded Systems (ESP32, STM32, FreeRTOS) and Fullstack(Postgresql, Typescript, Python)**
 - 💻 Interested in **Firmware, Linux, Backend, MQTT, Docker**
 - ⚡ Passionate about **Automation, Robotics, and Edge Computing**
-- 🎯 Goal: Become an **Robotic Engineer**
+- 🎯 Goal: Become an **Robotics Engineer**
 
 ---
 
@@ -77,7 +77,7 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=JundiLesmana&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </p>
 
