@@ -10,8 +10,6 @@
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=JundiLesmana&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JundiLesmana&theme=tokyonight"/>
-
 </p>
 
 ---
