@@ -1,29 +1,10 @@
 <div align="center">
 
-# Hi 👋 I'm Jundulloh Rizki Ananda
-
-### IoT Engineer • Embedded Systems • Robotics • Fullstack Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3500&pause=1200&center=true&vCenter=true&width=800&lines=IoT+Engineer;Embedded+Systems+Developer;ESP32+%7C+STM32;Robotics+Engineer;Fullstack+Developer;Always+Learning"/>
-
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="500"/>
-
-</div>
+# Hi 👋 I'm Jundulloh Rizki Ananda , Just call me jundi.
 
 ---
 
-# 👨‍💻 About Me
-
-- 🔭 IoT Engineer
-- 🤖 Passionate about Robotics & Embedded Systems
-- 💻 Building Firmware, Backend API and IoT Platform
-- 🐧 Linux Enthusiast
-- 📡 Working with MQTT, Docker, PostgreSQL and ESP32
-- 🎯 Goal: Robotics Software Engineer
-
----
-
-# 📊 GitHub Analytics
+# GitHub Analytics
 
 <p align="center">
 
@@ -47,7 +28,7 @@
 
 ---
 
-# 📉 Contribution Graph
+# Contribution Graph
 
 <p align="center">
 
@@ -57,7 +38,7 @@
 
 ---
 
-# 🏆 GitHub Profile Summary
+# GitHub Profile Summary
 
 <p align="center">
 
@@ -67,7 +48,7 @@
 
 ---
 
-# 👀 Visitors
+# Visitors
 
 <p align="center">
 
