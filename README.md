@@ -1,25 +1,24 @@
 <div align="center">
 
-# Hi 👋 I'm Jundulloh Rizki Ananda , Just call me jundi.
+## Hi, I'm Jundulloh Rizki Ananda — just call me Jundi.
 
 ---
 
-# GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=JundiLesmana&theme=tokyonight&hide_border=true"/>
-
+  <img width="49%" alt="GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=JundiLesmana&theme=dark&hide_border=true" />
+  <img width="49%" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JundiLesmana&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 ---
 
-# Contribution Graph
+## Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JundiLesmana&theme=tokyo-night&hide_border=true"/>
-
+  <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=JundiLesmana&theme=github-dark&hide_border=true" />
 </p>
 
 ---
+
+</div>
