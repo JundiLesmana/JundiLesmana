@@ -8,7 +8,7 @@
 
 <p align="center">
   <img width="49%" alt="GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=JundiLesmana&theme=dark&hide_border=true" />
-  <img width="49%" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JundiLesmana&layout=compact&theme=dark&hide_border=true" />
+  <img width="49%" alt="Top Languages" src="./metrics.languages.svg" />
 </p>
 
 ---
